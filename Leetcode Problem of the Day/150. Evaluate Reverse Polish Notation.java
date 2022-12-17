@@ -50,7 +50,6 @@ class Solution {
             else
                 s.add(Integer.parseInt(c));
         }
-        
         return s.peek();
     }
 }
