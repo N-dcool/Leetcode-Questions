@@ -33,6 +33,7 @@ Constraints:
     1 <= k <= 105
 */
 
+//(700ms)
 class Solution {
     public int minStoneSum(int[] piles, int k) {
         int sum = 0;
@@ -53,5 +54,27 @@ class Solution {
             sum+=pq.poll();
         
         return sum;
+    }
+}
+
+//optimized(400ms)
+
+class Solution {
+    public int minStoneSum(int[] piles, int k) {
+        
+        int n = piles.length;
+        int count = 0 ;
+        PriorityQueue<Integer>pq = new PriorityQueue<>((a,b)->b-a);
+        for(int i=0;i<n;i++){
+            count+=piles[i];
+            pq.add(piles[i]);
+        }
+        int sum = 0;
+        while(k-->0){
+            int temp = pq.remove();
+            sum+=(temp/2);
+            pq.add(temp-(temp/2));
+        }
+        return count-sum;
     }
 }
