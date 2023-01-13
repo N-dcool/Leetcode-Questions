@@ -86,3 +86,45 @@ class Solution {
         return ans;
     }
 }
+
+
+//Easy to understand and optimal approach : 
+
+best Explanation : https://www.youtube.com/watch?v=VjHJ2gWaqd8 
+
+class Solution {
+    public int[] countSubTrees(int n, int[][] edges, String labels) {
+        HashMap<Integer, List<Integer>> adj = new HashMap<>();
+        
+        for(int[] edge : edges){
+            int a = edge[0];
+            int b = edge[1];
+            
+            adj.computeIfAbsent(a, k -> new ArrayList()).add(b);
+            adj.computeIfAbsent(b, k -> new ArrayList()).add(a);
+        }
+        
+        int[] ans = new int[n];
+        char[] label = labels.toCharArray();
+        int[] alpha = new int[26];
+        
+        dfs(0, -1, adj, alpha, label, ans);
+        
+        return ans;
+    }
+    
+    public void dfs(int curr, int parent, HashMap<Integer, List<Integer>> adj, int[] alpha, char[] label, int[] ans){
+        
+        int prevCount = alpha[label[curr] - 'a'];
+        
+        alpha[label[curr]-'a']++;
+        
+        for(int child : adj.get(curr)){
+            if(child != parent)
+                dfs(child, curr, adj, alpha, label, ans);
+        }
+        
+        ans[curr] = alpha[label[curr] - 'a'] - prevCount;
+        
+    }
+}
