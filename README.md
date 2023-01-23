@@ -39,8 +39,12 @@
 <a href=https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day> - [20 Jan] </a> </br>
 
 
-<p align="center"><a href="https://github.com/Nareshchoudhary02"><img align="center" width="70%" src="https://i.ibb.co/WGN6jV8/leetcode.png" alt="leetcode" border="0"></a></p>
-<h4 align="center"> 🧑🏻‍💻 JAVA </h4>
+---
+
+## 🫡Hall of Fame 🏆 : <br>
+<img src="https://i.ibb.co/4KwWNDr/Screenshot-2023-01-23-at-4-16-34-PM.png" alt="struggle" border="0" width="370px" height="500px" >
+
+---
 
 ## 🤓 Author 
 <table>
@@ -50,4 +54,8 @@
 </table>
 
 ***
-Feel free to star ⭐ this repository if you like what you see 😉.
+
+<p align="center"><a href="https://github.com/Nareshchoudhary02"><img align="center" width="50%" src="https://i.ibb.co/WGN6jV8/leetcode.png" alt="leetcode" border="0"></a></p>
+<h4 align="center"> 🧑🏻‍💻 JAVA </h4>
+
+                                  Feel free to star ⭐ this repository if you like what you see 😉.
