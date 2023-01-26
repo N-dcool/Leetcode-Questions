@@ -41,6 +41,46 @@ Constraints:
     src != dst
 */
 
+
+class Solution {
+    record Tuple(int stop, int node, int cost){ }
+    
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+        HashMap<Integer, List<int[]>> adj = new HashMap<>();
+        
+        for(int[] f : flights)
+            adj.computeIfAbsent(f[0], v -> new ArrayList()).add(new int[] {f[1], f[2]});
+        
+        Queue<Tuple> q = new LinkedList<>();
+        q.offer(new Tuple(0, src, 0));   
+        
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[src] = 0;
+        
+        while(!q.isEmpty()){
+            Tuple curFlight = q.poll();
+            int stop = curFlight.stop;
+            int node = curFlight.node;
+            int cost = curFlight.cost;
+            
+            if(stop > k || !adj.containsKey(node))
+                continue;
+            for(int[] pair: adj.get(node)){
+                int adjNode = pair[0];
+                int travelCost = pair[1];
+                
+                if(dist[adjNode] > travelCost+cost && stop<=k){
+                    dist[adjNode] = travelCost+cost;
+                    q.offer(new Tuple(stop+1, adjNode, dist[adjNode]));
+                }
+            } 
+        }
+        
+        return dist[dst]==Integer.MAX_VALUE ? -1 : dist[dst];
+    }
+}
+
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         HashMap<Integer, List<int[]>> adj = new HashMap<>();
