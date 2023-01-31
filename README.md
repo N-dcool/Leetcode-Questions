@@ -48,7 +48,7 @@
 - [28 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Data Stream as Disjoint Intervals</b></br>
 - [29 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => LFU Cache </b></br>
 - [30 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => N-th Tribonacci Number</b></br>
-- [31 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [31 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Best Team With No Conflicts</b></br>
 
 
 ---
