@@ -69,5 +69,6 @@
 
 <p align="center"><a href="https://github.com/Nareshchoudhary02"><img align="center" width="50%" src="https://i.ibb.co/WGN6jV8/leetcode.png" alt="leetcode" border="0"></a></p>
 <h4 align="center"> 🧑🏻‍💻 JAVA </h4>
-
-                                  Feel free to star ⭐ this repository if you like what you see 😉.
+<h3 align="center">
+Feel free to star ⭐ this repository if you like what you see 😉.
+</h3>
