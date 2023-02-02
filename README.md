@@ -50,7 +50,7 @@
 - [30 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => N-th Tribonacci Number</b></br>
 - [31 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Best Team With No Conflicts</b></br>
 - [1 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Greatest Common Divisor of Strings</b></br>
-- [2 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [2 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Verifying an Alien Dictionary</b></br>
 - [3 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [4 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [5 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
