@@ -72,9 +72,9 @@
 - [20 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Search Insert Position</b></br>
 
 - [21 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Single Element in a Sorted Array</b></br>
-- [22 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
-- [23 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
-- [24 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [22 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Capacity To Ship Packages Within D Days</b></br>
+- [23 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> =>  IPO</b></br>
+- [24 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimize Deviation in Array</b></br>
 - [25 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [26 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [27 Feb](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
