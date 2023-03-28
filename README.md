@@ -106,7 +106,7 @@
 - [25 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Count Unreachable Pairs of Nodes in an Undirected Graph</b></br>
 - [26 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Longest Cycle in a Graph</b></br>
 - [27 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Path Sum</b></br>
-- [28 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [28 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Cost For Tickets</b></br>
 - [29 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [30 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [31 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
