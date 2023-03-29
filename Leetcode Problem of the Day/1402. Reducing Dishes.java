@@ -32,6 +32,29 @@ Constraints:
     -1000 <= satisfaction[i] <= 1000
 */
 
+// Most Optimized : 
+
+class Solution {
+    public int maxSatisfaction(int[] satisfaction) {
+        int n = satisfaction.length;
+        
+        Arrays.sort(satisfaction);
+        int suffixSum = 0; 
+        int max = 0;
+        
+        for(int i=n-1; i>=0; i--){
+            suffixSum += satisfaction[i];
+            if(suffixSum < 0)
+                break;
+            max = Math.max(max, max+suffixSum);
+        }
+        
+        return max;
+    }
+}
+
+
+
 class Solution {
     Integer[][] dp;
     public int maxSatisfaction(int[] satisfaction) {
