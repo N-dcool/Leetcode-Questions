@@ -109,7 +109,7 @@
 - [28 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Cost For Tickets</b></br>
 - [29 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Reducing Dishes</b></br>
 - [30 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Scramble String</b></br>
-- [31 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [31 Mar](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Number of Ways of Cutting a Pizza</b></br>
 <!---
 --->
 
