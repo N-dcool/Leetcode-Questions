@@ -1,5 +1,7 @@
 # Leetcode-Questions
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naresh_Choudhary?theme=dark&font=Gowun%20Dodum)
+
 ## Leetcode Problems of the Day:
 
 - [17 Dec](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Evaluate Reverse Polish Notation</b></br>
