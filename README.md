@@ -125,7 +125,7 @@
 - [11 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> =>  Removing Stars From a String</b></br>
 - [12 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Simplify Path</b></br>
 - [13 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Validate Stack Sequences</b></br>
-- [14 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [14 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Longest Palindromic Subsequence</b></br>
 - [15 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [16 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [17 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
