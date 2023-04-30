@@ -142,7 +142,7 @@
 - [27 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Bulb Switcher</b></br>
 - [28 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Similar String Groups</b></br>
 - [29 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Checking Existence of Edge Length Limited Paths</b></br>
-- [30 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [30 Apr](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Remove Max Number of Edges to Keep Graph Fully Traversable</b></br>
 <!---
 --->
 
