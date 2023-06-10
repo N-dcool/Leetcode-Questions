@@ -183,7 +183,7 @@
 - [7 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Flips to Make a OR b Equal to c</b></br>
 - [8 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Count Negative Numbers in a Sorted Matrix</b></br>
 - [9 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Find Smallest Letter Greater Than Target</b></br>
-- [10 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [10 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximum Value at a Given Index in a Bounded Array</b></br>
 
 <!---
 - [11 Jun](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
