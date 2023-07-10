@@ -213,7 +213,7 @@
 - [7 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximize the Confusion of an Exam</b></br>
 - [8 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Put Marbles in Bags</b></br>
 - [9 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Substring With Largest Variance</b></br>
-- [10 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [10 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Depth of Binary Tree</b></br>
 <!---
 - [11 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [12 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
