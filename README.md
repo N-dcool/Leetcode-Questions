@@ -216,7 +216,7 @@
 - [10 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Depth of Binary Tree</b></br>
 - [11 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => All Nodes Distance K in Binary Tree</b></br>
 - [12 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Find Eventual Safe States</b></br>
-- [13 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [13 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Course Schedule</b></br>
 - [14 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [15 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 - [16 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
