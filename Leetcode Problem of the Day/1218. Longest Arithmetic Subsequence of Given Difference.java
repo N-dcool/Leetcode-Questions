@@ -5,7 +5,6 @@ arithmetic sequence such that the difference between adjacent elements in the su
 A subsequence is a sequence that can be derived from arr by deleting some or no elements without changing the order of the remaining elements.
 
  
-
 Example 1:
     Input: arr = [1,2,3,4], difference = 1
     Output: 4
