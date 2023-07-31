@@ -24,6 +24,32 @@ Constraints:
 */
 
 class Solution {
+    Integer[][] dp;
+    public int strangePrinter(String s) {
+        int n = s.length();
+        
+        dp = new Integer[n+1][n+1];
+        
+        return helper(0, n-1, s.toCharArray());
+    }
+    
+    public int helper(int i, int j, char[] s){
+        if(i == j)
+            return 1;
+        if(dp[i][j] != null)
+            return dp[i][j];
+        
+        int min = Integer.MAX_VALUE;
+        
+        for(int k=i; k<j; k++){
+            min = Math.min(min, helper(i,k, s) + helper(k+1, j, s));
+        }
+        
+        return dp[i][j] = (s[i] == s[j]) ? min-1 : min;
+    }
+}
+
+class Solution {
     int dp[][];
 
     private int solve(String s, int n, int left, int right) {
