@@ -234,6 +234,7 @@
 - [28 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Predict the Winner</b></br>
 - [29 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Soup Servings 💀</b></br>
 - [30 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Strange Printer</b></br>
+- [31 July](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum ASCII Delete Sum for Two Strings</b></br>
 <!---
 
 --->
