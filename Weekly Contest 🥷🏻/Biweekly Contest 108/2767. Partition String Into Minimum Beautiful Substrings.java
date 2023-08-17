@@ -9,7 +9,6 @@ Return the minimum number of substrings in such partition. If it is impossible t
 
 A substring is a contiguous sequence of characters in a string.
 
- 
 
 Example 1:
     Input: s = "1011"
