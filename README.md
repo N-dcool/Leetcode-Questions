@@ -265,7 +265,7 @@
 - [28 Aug](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Implement Stack using Queues</b></br>
 - [29 Aug](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Penalty for a Shop</b></br>
 - [30 Aug](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Replacements to Sort the Array</b></br>
-- [31 Aug](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [31 Aug](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Number of Taps to Open to Water a Garden(Intervals)</b></br>
 <!---
 
 --->
