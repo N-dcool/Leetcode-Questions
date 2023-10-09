@@ -304,7 +304,7 @@
 - [6 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Integer Break</b></br>
 - [7 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Build Array Where You Can Find The Maximum Exactly K Comparisons</b></br>
 - [8 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Max Dot Product of Two Subsequences</b></br>
-- [9 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [9 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Find First and Last Position of Element in Sorted Array</b></br>
 - [10 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
 <!---
 
