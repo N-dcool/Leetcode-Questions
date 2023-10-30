@@ -325,7 +325,7 @@
 - [27 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Longest Palindromic Substring</b></br>
 - [28 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Count Vowels Permutation</b></br>
 - [29 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Poor Pigs</b></br>
-- [30 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => </b></br>
+- [30 Oct](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Sort Integers by The Number of 1 Bits</b></br>
 <!---
 --->
 
