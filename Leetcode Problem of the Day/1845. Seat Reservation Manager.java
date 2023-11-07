@@ -7,7 +7,6 @@ SeatManager(int n) Initializes a SeatManager object that will manage n seats num
 int reserve() Fetches the smallest-numbered unreserved seat, reserves it, and returns its number.
 void unreserve(int seatNumber) Unreserves the seat with the given seatNumber.
  
-
 Example 1:
 
 Input
