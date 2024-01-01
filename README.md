@@ -19,6 +19,9 @@
 - [29 Dec](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Single-Threaded CPU.</b></br>
 - [30 Dec](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> =>  All Paths From Source to Target.</b></br>
 - [31 Dec](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Unique Paths III.</b></br>
+
+### Year 2023
+
 - [1 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Word Pattern.</b></br>
 - [2 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Detect Capital.</b></br>
 - [3 Jan](https://github.com/Nareshchoudhary02/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Delete Columns to Make Sorted.</b></br>
@@ -388,7 +391,12 @@
 - [29 Dec](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Difficulty of a Job Schedule</b></br>
 - [30 Dec](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Redistribute Characters to Make All Strings Equal</b></br>
 - [31 Dec](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Largest Substring Between Two Equal Characters</b></br>
+
+### Year 2024
+
+- [1 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Assign Cookies</b></br>
 <!---
+
 --->
 
 ---
