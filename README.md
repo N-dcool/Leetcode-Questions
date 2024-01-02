@@ -395,6 +395,8 @@
 ### Year 2024
 
 - [1 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Assign Cookies</b></br>
+- [2 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Convert an Array Into a 2D Array With Conditions</b></br>
+
 <!---
 
 --->
