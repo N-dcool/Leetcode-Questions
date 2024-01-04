@@ -398,6 +398,8 @@
 - [2 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Convert an Array Into a 2D Array With Conditions</b></br>
 - [3 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Number of Laser Beams in a Bank
 </b></br>
+- [4 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Minimum Number of Operations to Make Array Empty
+</b></br>
 
 
 <!---
