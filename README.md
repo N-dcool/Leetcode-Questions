@@ -402,8 +402,8 @@
 </b></br>
 - [5 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Longest Increasing Subsequence
 </b></br>
-- [5 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximum Profit in Job Scheduling</b></br>
-
+- [6 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximum Profit in Job Scheduling</b></br>
+- [7 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Arithmetic Slices II - Subsequence</b></br>
 
 <!---
 
