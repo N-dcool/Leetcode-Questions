@@ -405,6 +405,7 @@
 - [6 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximum Profit in Job Scheduling</b></br>
 - [7 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Arithmetic Slices II - Subsequence</b></br>
 - [8 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Range Sum of BST</b></br>
+- [9 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Leaf-Similar Trees</b></br>
 
 <!---
 
