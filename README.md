@@ -408,6 +408,7 @@
 - [9 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Leaf-Similar Trees</b></br>
 - [10 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Amount of Time for Binary Tree to Be Infected</b></br>
 - [11 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Maximum Difference Between Node and Ancestor</b></br>
+- [12 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Determine if String Halves Are Alike</b></br>
 
 <!---
 
