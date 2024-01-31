@@ -427,6 +427,7 @@
 - [28 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Number of Submatrices That Sum to Target</b></br>
 - [29 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Implement Queue using Stacks</b></br>
 - [30 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Evaluate Reverse Polish Notation</b></br>
+- [31 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Daily Temperatures</b></br>
 
 <!---
 
