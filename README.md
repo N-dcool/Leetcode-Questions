@@ -428,6 +428,7 @@
 - [29 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Implement Queue using Stacks</b></br>
 - [30 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Evaluate Reverse Polish Notation</b></br>
 - [31 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Daily Temperatures</b></br>
+- [1 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Divide Array Into Arrays With Max Difference</b></br>
 
 <!---
 
