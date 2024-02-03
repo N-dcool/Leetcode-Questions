@@ -430,6 +430,7 @@
 - [31 Jan](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Daily Temperatures</b></br>
 - [1 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Divide Array Into Arrays With Max Difference</b></br>
 - [2 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Sequential Digits</b></br>
+- [3 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Partition Array for Maximum Sum</b></br>
 
 <!---
 
