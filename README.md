@@ -435,6 +435,7 @@
 - [5 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => First Unique Character in a String</b></br>
 - [6 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Group Anagrams</b></br>
 - [7 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Sort Characters By Frequency</b></br>
+- [8 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Perfect Squares</b></br>
 
 <!---
 
