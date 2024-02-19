@@ -438,6 +438,7 @@
 - [8 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Perfect Squares</b></br>
 - [9 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Largest Divisible Subset</b></br>
 - [10 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Palindromic Substrings</b></br>
+- [19 Feb](https://github.com/n-dcool/Leetcode-Questions/tree/main/Leetcode%20Problem%20of%20the%20Day) <b> => Power of Two</b></br>
 
 <!---
 
