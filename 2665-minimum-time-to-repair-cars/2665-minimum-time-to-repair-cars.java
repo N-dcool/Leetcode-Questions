@@ -1,17 +1,18 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
-        int max = 1;
+        int min = 100;
 
         for(int rank : ranks){
-            max = Math.max(max, rank);
+            min = Math.min(min, rank);
         }
 
         long left = 1l;
-        long right = 1l * max * cars * cars;
+        long right = 1l * min * cars * cars;
         long res = left;
 
         while(left <= right){
             long mid = left + (right - left)/2;
+            // boolean temp = ;
             // System.out.println("left : " + left+ " right : " + right+ " mid : " + mid+ " res : "+ temp);
             if(isPossible(ranks, mid, cars)){
                 res = mid;
