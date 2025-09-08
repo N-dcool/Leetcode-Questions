@@ -610,6 +610,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/N-dcool/Leetcode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
