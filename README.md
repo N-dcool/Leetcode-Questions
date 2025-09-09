@@ -556,6 +556,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Queue
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -590,6 +591,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/N-dcool/Leetcode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Shortest Path
 |  |
 | ------- |
@@ -662,6 +664,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
