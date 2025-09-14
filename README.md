@@ -471,6 +471,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -493,6 +494,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -524,6 +526,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
