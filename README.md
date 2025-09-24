@@ -472,6 +472,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -536,6 +537,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -642,6 +644,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/N-dcool/Leetcode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
