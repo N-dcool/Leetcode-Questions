@@ -497,6 +497,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/0120-triangle) |
@@ -686,6 +687,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -707,6 +709,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
