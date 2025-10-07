@@ -512,6 +512,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -550,6 +551,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -568,6 +570,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
@@ -706,6 +709,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
@@ -723,6 +727,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
