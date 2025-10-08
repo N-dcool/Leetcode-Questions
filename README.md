@@ -521,6 +521,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -571,6 +572,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
@@ -656,6 +658,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2887-sort-vowels-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -703,6 +706,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
