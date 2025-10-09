@@ -541,6 +541,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
 ## Hash Table
@@ -590,6 +591,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -756,6 +758,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 |  |
 | ------- |
