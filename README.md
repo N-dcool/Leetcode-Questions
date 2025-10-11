@@ -537,6 +537,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/N-dcool/Leetcode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/N-dcool/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/N-dcool/Leetcode-Questions/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
@@ -562,6 +563,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3678-design-task-manager](https://github.com/N-dcool/Leetcode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -578,6 +580,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
 ## Counting
@@ -586,6 +589,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/N-dcool/Leetcode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -652,6 +656,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/N-dcool/Leetcode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Shortest Path
 |  |
 | ------- |
@@ -671,6 +676,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/N-dcool/Leetcode-Questions/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
@@ -712,6 +718,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
