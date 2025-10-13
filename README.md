@@ -475,6 +475,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
@@ -510,6 +511,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
@@ -555,6 +557,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -669,6 +672,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
