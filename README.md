@@ -529,6 +529,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -568,6 +569,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -702,6 +704,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -759,6 +762,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
