@@ -546,6 +546,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -692,6 +693,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/N-dcool/Leetcode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
@@ -764,6 +766,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
