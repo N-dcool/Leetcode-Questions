@@ -14,25 +14,24 @@
  * }
  */
 class Solution {
-    long res = 0; 
-    int sub;
+    long res = 0;
     int total = 0;
+    int MOD = 1000000007;
     public int maxProduct(TreeNode root) {
-        
-        total = calculateSum(root);
-        
-        calculateSum(root);
-        
-        return (int)(res%1000000007);
+        total = calculate(root);
+        System.out.println(total);
+        calculate(root);
+
+        return (int)(res%MOD);
     }
-    
-    public int calculateSum(TreeNode root){
-        if(root==null)
-            return 0;
-        
-        sub = root.val + calculateSum(root.left) + calculateSum(root.right);
+
+    public int calculate(TreeNode root){
+        if(root == null) return 0;
+
+        int sub = root.val + calculate(root.left) + calculate(root.right);
+
         res = Math.max(res, 1l*sub*(total-sub));
-        
+
         return sub;
     }
 }
