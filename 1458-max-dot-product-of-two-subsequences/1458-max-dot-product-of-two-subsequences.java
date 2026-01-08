@@ -1,22 +1,37 @@
 class Solution {
+    int n,m;
+    Integer[][] dp;
     public int maxDotProduct(int[] nums1, int[] nums2) {
-        int[][] dp = new int[505][505];
-        for(int i=0; i<=501; i++)
-            dp[0][i] = Integer.MIN_VALUE;
-        int max = Integer.MIN_VALUE;
-        
-        for(int i=1; i<=nums1.length; i++){
-            for(int j=1; j<=nums2.length; j++){
-                if(i==1)
-                    dp[j][i] = Math.max(dp[j-1][i], nums1[i-1]*nums2[j-1]);
-                else if(j==1)
-                    dp[j][i] = Math.max(dp[j][i-1],nums1[i-1]*nums2[j-1]);
-                else
-                    dp[j][i] = Math.max(dp[j-1][i],Math.max(dp[j][i-1], Math.max(nums1[i-1]*nums2[j-1],Math.max(dp[j-1][i-1],nums1[i-1]*nums2[j-1] + dp[j-1][i-1]))));
-                max = Math.max(max,dp[j][i]);
+        n = nums1.length;
+        m = nums2.length;
+        int[][] mat = new int[n][m];
+        dp = new Integer[n][m];
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                mat[i][j] = nums1[i]*nums2[j];
             }
         }
+        // for(int[] ma : mat){
+        //     for(int m : ma){
+        //         System.out.print(m + " ");
+        //     }
+        //     System.out.println();
+        // }
         
-        return max;
+        return solve(0,0, mat);
     }
-}   
+
+    public int solve(int i, int j, int[][] mat){
+        if(i ==n || j==m) return -1000000;
+
+        if(dp[i][j] != null) return dp[i][j];
+
+        int cur = mat[i][j];
+
+        int take = Math.max( cur , cur + solve(i+1, j+1, mat));
+        int notTake = Math.max(solve(i+1, j, mat), solve(i, j+1, mat));
+
+        return dp[i][j] = Math.max(take, notTake);
+    }
+}
