@@ -1,5 +1,12 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
+        return !s.contains("01");
+    }
+}
+
+/*
+class Solution {
+    public boolean checkOnesSegment(String s) {
         StringBuilder sb = new StringBuilder(s);
         sb.reverse();
 
@@ -12,3 +19,4 @@ class Solution {
         return true;
     }
 }
+*/
