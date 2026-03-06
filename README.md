@@ -478,6 +478,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/N-dcool/Leetcode-Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
