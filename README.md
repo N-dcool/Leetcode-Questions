@@ -600,6 +600,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
@@ -784,6 +785,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -866,4 +868,16 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/N-dcool/Leetcode-Questions/tree/main/0146-lru-cache/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
