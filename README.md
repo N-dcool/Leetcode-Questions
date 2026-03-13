@@ -544,6 +544,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/N-dcool/Leetcode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/N-dcool/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -599,6 +600,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -727,6 +729,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -767,6 +770,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3678-design-task-manager](https://github.com/N-dcool/Leetcode-Questions/tree/master/3678-design-task-manager) |
 ## Stack
 | Problem Name | Difficulty |
@@ -785,6 +789,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Stack
