@@ -544,6 +544,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -621,6 +622,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/N-dcool/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -760,6 +762,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 | Problem Name | Difficulty |
