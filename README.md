@@ -545,6 +545,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/N-dcool/Leetcode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/N-dcool/Leetcode-Questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -627,6 +628,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2906-construct-product-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -772,6 +774,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/N-dcool/Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2906-construct-product-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/N-dcool/Leetcode-Questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
