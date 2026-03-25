@@ -560,6 +560,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -635,6 +636,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/N-dcool/Leetcode-Questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/N-dcool/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
@@ -777,6 +779,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2906-construct-product-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/N-dcool/Leetcode-Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/N-dcool/Leetcode-Questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/N-dcool/Leetcode-Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -864,6 +867,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
