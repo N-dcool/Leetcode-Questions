@@ -485,6 +485,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2887-sort-vowels-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -539,6 +540,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -707,6 +709,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/N-dcool/Leetcode-Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/N-dcool/Leetcode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -780,6 +783,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/N-dcool/Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2906-construct-product-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/N-dcool/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -829,6 +833,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -923,6 +928,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
