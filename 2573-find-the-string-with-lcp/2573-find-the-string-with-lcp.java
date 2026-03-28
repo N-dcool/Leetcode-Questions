@@ -42,6 +42,6 @@ class Solution {
             }
         }
 
-        return new String(word);
+        return new String(word+" ");
     }
 }
