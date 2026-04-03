@@ -577,6 +577,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/N-dcool/Leetcode-Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -627,6 +628,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
 ## Counting
 | Problem Name | Difficulty |
@@ -721,6 +723,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/N-dcool/Leetcode-Questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/N-dcool/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -750,6 +753,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
