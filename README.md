@@ -482,6 +482,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/N-dcool/Leetcode-Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/N-dcool/Leetcode-Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -873,6 +874,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/N-dcool/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
