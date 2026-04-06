@@ -520,6 +520,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -592,6 +593,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/N-dcool/Leetcode-Questions/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -875,6 +877,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/N-dcool/Leetcode-Questions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
