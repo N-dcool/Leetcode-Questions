@@ -579,6 +579,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/N-dcool/Leetcode-Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -885,6 +886,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/N-dcool/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -970,4 +972,8 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
