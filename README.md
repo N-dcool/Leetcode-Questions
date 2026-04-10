@@ -583,6 +583,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -615,6 +616,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3548-equal-sum-grid-partition-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3678-design-task-manager](https://github.com/N-dcool/Leetcode-Questions/tree/master/3678-design-task-manager) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/N-dcool/Leetcode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
