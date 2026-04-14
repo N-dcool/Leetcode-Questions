@@ -547,6 +547,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [2463-minimum-total-distance-traveled](https://github.com/N-dcool/Leetcode-Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -730,6 +731,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/N-dcool/Leetcode-Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/N-dcool/Leetcode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/N-dcool/Leetcode-Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -752,6 +754,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/N-dcool/Leetcode-Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2751-robot-collisions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
