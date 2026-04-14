@@ -535,6 +535,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/N-dcool/Leetcode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/N-dcool/Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
