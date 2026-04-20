@@ -537,6 +537,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/N-dcool/Leetcode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/N-dcool/Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -638,6 +639,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -838,6 +840,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
