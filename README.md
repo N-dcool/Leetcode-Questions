@@ -534,6 +534,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/N-dcool/Leetcode-Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/N-dcool/Leetcode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -720,6 +721,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/N-dcool/Leetcode-Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -978,6 +980,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/N-dcool/Leetcode-Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
