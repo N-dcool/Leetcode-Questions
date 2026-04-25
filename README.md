@@ -581,6 +581,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/N-dcool/Leetcode-Questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/N-dcool/Leetcode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/N-dcool/Leetcode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -653,6 +654,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/N-dcool/Leetcode-Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/N-dcool/Leetcode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -785,6 +787,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/N-dcool/Leetcode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -811,6 +814,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/N-dcool/Leetcode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -933,6 +937,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
