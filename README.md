@@ -518,6 +518,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/N-dcool/Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0120-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -810,6 +811,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/N-dcool/Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
@@ -843,6 +845,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/N-dcool/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/N-dcool/Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
