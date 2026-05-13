@@ -1,9 +1,7 @@
 /* Write your PL/SQL query statement below */
 
-
-select DISTINCT l1.num as ConsecutiveNums
-    from logs l1, logs l2, logs l3
-        where l2.id = l1.id+1 
-          and l3.id = l2.id+1
-          and l1.num = l2.num 
-          and l2.num = l3.num;
+select distinct num as ConsecutiveNums from (
+select distinct num, count(*) as cnt, ordering from (select num, 
+    (ROW_NUMBER() OVER(order by id) -
+    ROW_NUMBER() OVER(partition by num order by id)) as ordering
+        from logs) group by num, ordering) where cnt >= 3;
