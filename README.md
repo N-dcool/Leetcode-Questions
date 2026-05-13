@@ -1061,4 +1061,5 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0183-customers-who-never-order](https://github.com/N-dcool/Leetcode-Questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/N-dcool/Leetcode-Questions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/N-dcool/Leetcode-Questions/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/N-dcool/Leetcode-Questions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
