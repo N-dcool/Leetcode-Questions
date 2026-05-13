@@ -1049,4 +1049,8 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/N-dcool/Leetcode-Questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/N-dcool/Leetcode-Questions/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
