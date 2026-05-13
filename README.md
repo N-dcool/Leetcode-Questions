@@ -1055,4 +1055,5 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0176-second-highest-salary](https://github.com/N-dcool/Leetcode-Questions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/N-dcool/Leetcode-Questions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/N-dcool/Leetcode-Questions/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
