@@ -563,6 +563,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2463-minimum-total-distance-traveled](https://github.com/N-dcool/Leetcode-Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -633,6 +634,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/N-dcool/Leetcode-Questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -658,6 +660,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/N-dcool/Leetcode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/N-dcool/Leetcode-Questions/tree/master/2690-house-robber-iv) |
@@ -885,6 +888,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/N-dcool/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/N-dcool/Leetcode-Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
