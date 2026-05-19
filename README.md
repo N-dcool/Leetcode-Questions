@@ -531,6 +531,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -622,6 +623,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
@@ -748,6 +750,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1345-jump-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
