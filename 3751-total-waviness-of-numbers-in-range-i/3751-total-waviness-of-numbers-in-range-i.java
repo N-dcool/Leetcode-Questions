@@ -1,27 +1,41 @@
 // optimized
 class Solution {
 
-    private record Pair(int count, long sum) { }
+    private record Pair(long count, long sum) { }
+    
+    Long[][][][] dpCount;
+    Long[][][][] dpSum;
 
     public int totalWaviness(int num1, int num2) {
         String s1 = Integer.toString(num1-1);
         String s2 = Integer.toString(num2);
-        int n1 = s1.length();
-        int n2 = s2.length();
 
-        Pair res1 = solve(0, -1, -1, true, true, s1, n1);
-        Pair res2 = solve(0, -1, -1, true, true, s2, n2);
-
-        return (int)(res2.sum - res1.sum);
+        return (int)(solve(s2) - solve(s1));
     }
 
-    public Pair solve(int i, int prev, int cur, boolean tight, boolean isLeading, String num, int n) {
+    public long solve(String num) {
+        int n = num.length();
+        dpCount = new Long[n+1][10][10][2];
+        dpSum   = new Long[n+1][10][10][2];
+
+        return dfs(0, -1, -1, true, true, num, n).sum;
+    }
+
+    public Pair dfs(int i, int prev, int cur, boolean tight, boolean isLeading, String num, int n) {
 
         if(i == n) return new Pair(1,0);
+        if(!tight) {
+            int leading = isLeading ? 1 : 0;
+            if(prev >=0 && cur >=0 && dpCount[i][prev][cur][leading] != null){
+                return new Pair(dpCount[i][prev][cur][leading],
+                                dpSum[i][prev][cur][leading]);
+            }
+        }
+
 
         int up = tight ? (num.charAt(i) - '0') : 9;
-        int count = 0;
-        int sum = 0;
+        long count = 0;
+        long sum = 0;
         
         for(int d=0; d<=up; d++) {
             boolean newLeading = isLeading && d==0;
@@ -31,7 +45,7 @@ class Solution {
 
             // System.out.println(newPrev +" "+ newCur +" "+ d);
             
-            Pair res = solve(i+1, newPrev, newCur, newTight, newLeading, num, n);
+            Pair res = dfs(i+1, newPrev, newCur, newTight, newLeading, num, n);
 
             if(!newLeading && prev>=0 && cur>=0 && ((cur>prev && cur>d) || (cur<prev && cur<d))) {
                 sum += res.count;
@@ -39,7 +53,14 @@ class Solution {
 
             count += res.count;
             sum += res.sum;
-            
+        }
+
+        if(!tight) {
+            int leading = isLeading ? 1 : 0;
+            if(prev >=0 && cur >=0){
+                dpCount[i][prev][cur][leading] = count;
+                dpSum[i][prev][cur][leading] = sum;
+            }
         }
 
         return new Pair(count, sum);
