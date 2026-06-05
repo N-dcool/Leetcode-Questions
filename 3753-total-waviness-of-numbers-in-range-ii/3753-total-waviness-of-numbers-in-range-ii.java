@@ -11,6 +11,8 @@ class Solution {
     private record Pair(long count, long waviness) { }
 
     private long solve(long num) {
+        if(num <=100) return 0;
+        
         digits = Long.toString(num).toCharArray();
         n = digits.length;
         dp = new Pair[3][11][n+1];
