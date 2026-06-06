@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n];
 
-        int prefixSum = Arrays.stream(nums).sum();
+        int prefixSum = Arrays.stream(nums).parallel().sum();
         int rightSum = prefixSum;
         int leftSum = 0;
 
