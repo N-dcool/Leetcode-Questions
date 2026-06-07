@@ -508,6 +508,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/N-dcool/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1871-jump-game-vii/) | Medium |
@@ -529,6 +530,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -706,6 +708,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1871-jump-game-vii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/N-dcool/Leetcode-Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -788,6 +791,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0120-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
