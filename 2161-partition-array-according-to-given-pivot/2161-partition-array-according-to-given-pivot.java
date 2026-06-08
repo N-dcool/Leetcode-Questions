@@ -3,30 +3,22 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n];
 
-        List<Integer> greater = new ArrayList<>();
-        int countPivot = 0;
+        int left=0;
+        int right = n-1;
 
-        int idx=0;
-
-        // all small elements
-        for(int i=0; i<n; i++) {
+        // all small and large elements
+        for(int i=0, j=n-1; i<n; i++, j--) {
             if(nums[i] < pivot) {
-                res[idx++] = nums[i];
-            } else if(nums[i] > pivot) {
-                greater.add(nums[i]);
-            } else{
-                countPivot++;
+                res[left++] = nums[i];
+            }
+            if(nums[j] > pivot) {
+                res[right--] = nums[j];
             }
         }
 
         // equal elements
-        while(countPivot-- > 0) {
-            res[idx++] = pivot;
-        }
-
-        // all greater elements
-        for(int num : greater) {
-            res[idx++] = num;
+        while(left <= right) {
+            res[left++] = pivot;
         }
 
         return res;
