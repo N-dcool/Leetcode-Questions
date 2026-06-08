@@ -564,6 +564,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2126-destroying-asteroids](https://github.com/N-dcool/Leetcode-Questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/N-dcool/Leetcode-Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -926,6 +927,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -996,6 +998,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/N-dcool/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/N-dcool/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
