@@ -623,6 +623,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -977,6 +978,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
