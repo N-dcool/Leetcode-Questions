@@ -526,6 +526,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0037-sudoku-solver](https://github.com/N-dcool/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/N-dcool/Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0120-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/0120-triangle) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -940,6 +941,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
