@@ -26,7 +26,7 @@ class Solution {
             int j = cur.j();
             res += cur.val();
 
-            if( i < j-1) pq.add(new Range(i, j-1, st.query(i,j-1)));
+            if( i < j) pq.add(new Range(i, j-1, st.query(i,j-1)));
         }
 
         return res;
