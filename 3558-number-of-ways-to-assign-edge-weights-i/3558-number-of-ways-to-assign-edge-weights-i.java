@@ -30,7 +30,7 @@ class Solution {
             depth++;
         }
 
-        System.out.println(depth);
+        // System.out.println(depth);
 
         return (int)(modPow(2, depth-2));
 
