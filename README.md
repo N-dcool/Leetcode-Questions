@@ -939,6 +939,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/N-dcool/Leetcode-Questions/tree/main/2540-minimum-common-value/) | Easy |
@@ -966,6 +967,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2751-robot-collisions/) | Hard |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1085,6 +1087,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/N-dcool/Leetcode-Questions/tree/main/0146-lru-cache/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
