@@ -939,6 +939,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1087,6 +1088,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/N-dcool/Leetcode-Questions/tree/main/0146-lru-cache/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
