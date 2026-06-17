@@ -504,6 +504,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3474-lexicographically-smallest-generated-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3797-design-spreadsheet](https://github.com/N-dcool/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/N-dcool/Leetcode-Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/N-dcool/Leetcode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1025,6 +1026,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/N-dcool/Leetcode-Questions/tree/main/3838-weighted-word-mapping/) | Easy |
