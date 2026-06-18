@@ -871,6 +871,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/N-dcool/Leetcode-Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/N-dcool/Leetcode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1622-fancy-sequence](https://github.com/N-dcool/Leetcode-Questions/tree/main/1622-fancy-sequence/) | Hard |
