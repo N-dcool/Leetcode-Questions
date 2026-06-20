@@ -557,6 +557,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/N-dcool/Leetcode-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/N-dcool/Leetcode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/N-dcool/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -840,6 +841,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/N-dcool/Leetcode-Questions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -878,6 +880,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/N-dcool/Leetcode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1622-fancy-sequence](https://github.com/N-dcool/Leetcode-Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
+| [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
