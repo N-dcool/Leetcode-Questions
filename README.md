@@ -485,6 +485,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/N-dcool/Leetcode-Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/N-dcool/Leetcode-Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N-dcool/Leetcode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -566,6 +567,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/N-dcool/Leetcode-Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N-dcool/Leetcode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
