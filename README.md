@@ -545,6 +545,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/N-dcool/Leetcode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1345-jump-game-iv/) | Hard |
@@ -838,6 +839,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -953,6 +955,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
