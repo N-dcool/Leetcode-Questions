@@ -1,5 +1,33 @@
 class Solution {
     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
+        int[] component = new int[n];
+
+        int compId = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] - nums[i - 1] > maxDiff) {
+                compId++;
+            }
+
+            component[i] = compId;
+        }
+
+        boolean[] res = new boolean[queries.length];
+
+        for (int i = 0; i < queries.length; i++) {
+            int u = queries[i][0];
+            int v = queries[i][1];
+
+            res[i] = component[u] == component[v];
+        }
+
+        return res;
+    }
+}
+
+/*
+class Solution {
+    public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
         DisjoinSet ds = new DisjoinSet(n);
 
         for(int i=1; i<n; i++) {
@@ -59,3 +87,4 @@ class Solution {
 
     }
 }
+*/
