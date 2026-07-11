@@ -823,6 +823,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1559-detect-cycles-in-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/N-dcool/Leetcode-Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/N-dcool/Leetcode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -838,6 +839,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1559-detect-cycles-in-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/N-dcool/Leetcode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/N-dcool/Leetcode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1177,6 +1179,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/N-dcool/Leetcode-Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/N-dcool/Leetcode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/N-dcool/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/N-dcool/Leetcode-Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -1184,6 +1187,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/N-dcool/Leetcode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/N-dcool/Leetcode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
