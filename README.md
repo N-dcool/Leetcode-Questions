@@ -1121,6 +1121,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/N-dcool/Leetcode-Questions/tree/main/1291-sequential-digits/) | Medium |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/N-dcool/Leetcode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
