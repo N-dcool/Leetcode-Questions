@@ -958,6 +958,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3676-smallest-number-with-all-set-bits](https://github.com/N-dcool/Leetcode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1087,6 +1088,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/N-dcool/Leetcode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
