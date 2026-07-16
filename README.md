@@ -662,6 +662,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/N-dcool/Leetcode-Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/N-dcool/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -925,6 +926,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/N-dcool/Leetcode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -969,6 +971,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3830-find-closest-person](https://github.com/N-dcool/Leetcode-Questions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/N-dcool/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1024,6 +1027,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/N-dcool/Leetcode-Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1089,6 +1093,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/N-dcool/Leetcode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1111,6 +1116,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/N-dcool/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/N-dcool/Leetcode-Questions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
