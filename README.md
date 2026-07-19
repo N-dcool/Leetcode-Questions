@@ -475,6 +475,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0657-robot-return-to-origin](https://github.com/N-dcool/Leetcode-Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/N-dcool/Leetcode-Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/N-dcool/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/N-dcool/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -1057,6 +1058,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/N-dcool/Leetcode-Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1068,6 +1070,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0011-container-with-most-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/N-dcool/Leetcode-Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/N-dcool/Leetcode-Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -1092,6 +1095,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/N-dcool/Leetcode-Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/N-dcool/Leetcode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
