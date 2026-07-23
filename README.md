@@ -635,6 +635,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/N-dcool/Leetcode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -794,6 +795,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/N-dcool/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/N-dcool/Leetcode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -968,6 +970,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/N-dcool/Leetcode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
