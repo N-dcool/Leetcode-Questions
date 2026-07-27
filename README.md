@@ -559,6 +559,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -911,6 +912,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1288-remove-covered-intervals](https://github.com/N-dcool/Leetcode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/N-dcool/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/N-dcool/Leetcode-Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/N-dcool/Leetcode-Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
@@ -1057,6 +1059,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/N-dcool/Leetcode-Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1612-avoid-flood-in-the-city](https://github.com/N-dcool/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
