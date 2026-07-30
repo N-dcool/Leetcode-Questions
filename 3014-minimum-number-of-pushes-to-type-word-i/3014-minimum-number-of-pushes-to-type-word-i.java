@@ -12,7 +12,7 @@ class Solution {
             }
         }
 
-        System.out.println(unique);
+        // System.out.println(unique);
 
         if(unique<=16) return 8 + (unique-8)*2;
 
