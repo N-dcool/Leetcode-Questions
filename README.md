@@ -544,6 +544,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/N-dcool/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/N-dcool/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
@@ -875,6 +876,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0120-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -961,6 +963,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0048-rotate-image](https://github.com/N-dcool/Leetcode-Questions/tree/main/0048-rotate-image/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -1142,6 +1145,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -1197,6 +1201,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 | Problem Name | Difficulty |
