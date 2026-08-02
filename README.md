@@ -551,6 +551,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0794-swim-in-rising-water](https://github.com/N-dcool/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/N-dcool/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -878,6 +879,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0396-rotate-function](https://github.com/N-dcool/Leetcode-Questions/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -966,6 +968,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/N-dcool/Leetcode-Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1202,6 +1205,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 | Problem Name | Difficulty |
