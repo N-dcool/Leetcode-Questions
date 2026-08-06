@@ -1001,6 +1001,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3321-type-of-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/N-dcool/Leetcode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/N-dcool/Leetcode-Questions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -1199,6 +1200,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/N-dcool/Leetcode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
