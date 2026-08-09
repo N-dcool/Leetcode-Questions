@@ -557,6 +557,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1006-vowel-spellchecker](https://github.com/N-dcool/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/N-dcool/Leetcode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -781,6 +782,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/N-dcool/Leetcode-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -888,6 +890,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/N-dcool/Leetcode-Questions/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/N-dcool/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
@@ -980,6 +983,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0830-largest-triangle-area](https://github.com/N-dcool/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/N-dcool/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/N-dcool/Leetcode-Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1225,6 +1229,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/N-dcool/Leetcode-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
@@ -1359,9 +1364,11 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
