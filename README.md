@@ -894,6 +894,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1301-number-of-paths-with-max-score](https://github.com/N-dcool/Leetcode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/N-dcool/Leetcode-Questions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/N-dcool/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/N-dcool/Leetcode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -988,6 +989,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/N-dcool/Leetcode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/N-dcool/Leetcode-Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1642-water-bottles](https://github.com/N-dcool/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
@@ -1231,6 +1233,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [0877-stone-game](https://github.com/N-dcool/Leetcode-Questions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 | Problem Name | Difficulty |
@@ -1366,9 +1369,19 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
