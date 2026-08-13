@@ -490,6 +490,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N-dcool/Leetcode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/N-dcool/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/N-dcool/Leetcode-Questions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/N-dcool/Leetcode-Questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -600,6 +601,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/N-dcool/Leetcode-Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/N-dcool/Leetcode-Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/N-dcool/Leetcode-Questions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/N-dcool/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1255,6 +1257,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/N-dcool/Leetcode-Questions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2429-design-a-food-rating-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/N-dcool/Leetcode-Questions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/N-dcool/Leetcode-Questions/tree/master/3827-implement-router) |
@@ -1311,6 +1314,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/N-dcool/Leetcode-Questions/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/N-dcool/Leetcode-Questions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/N-dcool/Leetcode-Questions/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
