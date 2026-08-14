@@ -503,6 +503,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2887-sort-vowels-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/N-dcool/Leetcode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/N-dcool/Leetcode-Questions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -533,6 +534,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/N-dcool/Leetcode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/N-dcool/Leetcode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/N-dcool/Leetcode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -721,6 +723,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/N-dcool/Leetcode-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/N-dcool/Leetcode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/N-dcool/Leetcode-Questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3242-count-elements-with-maximum-frequency](https://github.com/N-dcool/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
