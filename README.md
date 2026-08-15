@@ -676,6 +676,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/N-dcool/Leetcode-Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/N-dcool/Leetcode-Questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/N-dcool/Leetcode-Questions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/N-dcool/Leetcode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -831,6 +832,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/N-dcool/Leetcode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/N-dcool/Leetcode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/N-dcool/Leetcode-Questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/N-dcool/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/N-dcool/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
