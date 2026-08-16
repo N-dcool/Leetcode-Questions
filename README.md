@@ -596,6 +596,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/N-dcool/Leetcode-Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/N-dcool/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/N-dcool/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/N-dcool/Leetcode-Questions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -779,6 +780,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/N-dcool/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 | [2308-divide-array-into-equal-pairs](https://github.com/N-dcool/Leetcode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/N-dcool/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/N-dcool/Leetcode-Questions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -1008,6 +1010,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1840-maximum-building-height](https://github.com/N-dcool/Leetcode-Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/N-dcool/Leetcode-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/N-dcool/Leetcode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/N-dcool/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1145,6 +1148,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1834-minimum-number-of-people-to-teach](https://github.com/N-dcool/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N-dcool/Leetcode-Questions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/N-dcool/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/N-dcool/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/N-dcool/Leetcode-Questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/N-dcool/Leetcode-Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -1247,6 +1251,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/N-dcool/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 | Problem Name | Difficulty |
@@ -1385,16 +1390,19 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/N-dcool/Leetcode-Questions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/N-dcool/Leetcode-Questions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
