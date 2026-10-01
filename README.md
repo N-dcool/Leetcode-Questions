@@ -471,6 +471,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/N-dcool/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0165-compare-version-numbers](https://github.com/N-dcool/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/N-dcool/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0657-robot-return-to-origin](https://github.com/N-dcool/Leetcode-Questions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -1137,6 +1138,7 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/N-dcool/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/N-dcool/Leetcode-Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1628-count-submatrices-with-all-ones](https://github.com/N-dcool/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N-dcool/Leetcode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1417,4 +1419,8 @@ Feel free to star ⭐ this repository if you like what you see 😉.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/N-dcool/Leetcode-Questions/tree/main/1510-stone-game-iv/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/N-dcool/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
